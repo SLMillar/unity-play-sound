@@ -1,4 +1,4 @@
-Sounds are used to enhance player experience. To add a sound, create a public variable to store the sound you want to play:
+Sounds are used to enhance the player's experience. To add a sound, create a public variable to store the sound you want to play:
 
 --- code ---
 ---
@@ -41,6 +41,6 @@ void OnTriggerEnter(Collider other)
     
 --- /code ---
 
-In the Unity editor, find the sound property for your script component and click on the circle to assign the sound you want to play:
+In the Unity Editor, find the sound property for your script component and click on the circle to assign the sound you want to play:
 
-![The Inspector window with sound 'Collect' in the Collect Sound variable and the circle to the right highlighted.](images/collect-sound-property.png)
+![The Inspector window with the sound 'Collect' in the Collect Sound variable and the circle to the right highlighted.](images/collect-sound-property.png)
